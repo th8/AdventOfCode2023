@@ -1,4 +1,4 @@
-package nl.th8.adventofcode2022.utils;
+package nl.th8.adventofcode2023.utils;
 
 import java.io.*;
 import java.nio.file.Files;

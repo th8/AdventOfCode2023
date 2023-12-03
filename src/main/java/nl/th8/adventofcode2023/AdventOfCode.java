@@ -1,4 +1,4 @@
-package nl.th8.adventofcode2022;
+package nl.th8.adventofcode2023;
 
 import org.springframework.util.StopWatch;
 
@@ -6,7 +6,7 @@ import java.util.List;
 
 public class AdventOfCode {
 
-    private static final List<Day> days = List.of(new DayOne(), new DayTwo());
+    private static final List<Day> days = List.of(new DayOne(), new DayTwo(), new DayThree());
 
     public static void main(String[] args) {
         StopWatch stopWatch = new StopWatch("Advent of Code 2023");

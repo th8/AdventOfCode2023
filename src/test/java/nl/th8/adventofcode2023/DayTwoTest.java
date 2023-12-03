@@ -1,6 +1,6 @@
-package nl.th8.adventofcode2022;
+package nl.th8.adventofcode2023;
 
-import nl.th8.adventofcode2022.utils.PuzzleInputParser;
+import nl.th8.adventofcode2023.utils.PuzzleInputParser;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
